@@ -47,7 +47,9 @@ The project is organized into three main files:
 
 .
 ├── 📄 index.html    # The main HTML file with all the content and structure.
+
 ├── 📄 styles.css    # The CSS file containing all the styles and media queries.
+
 └── 📄 script.js     # The JavaScript file for interactive features.
 
 🌐 Live Demo
