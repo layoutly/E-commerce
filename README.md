@@ -38,7 +38,7 @@ git clone https://github.com/layoutly/E-commerce.git
 
 Navigate to the project directory:
 
-cd your-repository-name
+cd E-commerce
 
 Open the index.html file in your web browser to view the website.
 
