@@ -46,6 +46,7 @@ Open the index.html file in your web browser to view the website.
 The project is organized into three main files:
 
 .
+
 ├── 📄 index.html    # The main HTML file with all the content and structure.
 
 ├── 📄 styles.css    # The CSS file containing all the styles and media queries.
